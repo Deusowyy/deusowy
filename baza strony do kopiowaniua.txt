@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>   
+    <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1.0">
+    <title>CLOTCHING BRAND SHOP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+<style type="text/css">
+    html, body {
+      overflow: hidden;
+    }
+</style>
+<div style="width: 100%; height:auto; background:black; color:red;text-align:center;padding:5px;">SHIPPING FREE</div>
+    <div class="hero">
+
+        <video autoplay loop muted plays-inline class="back-video">
+          <source src="video.mp4" type="video/mp4">
+        </video>
+
+        <nav>
+          <img src="3D-LOGO-PACESETTER.jpg" class="logo" alt="logo">
+          <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">SHOP</a></li>
+            <li><a href="#">CONTACT US</a></li>
+            <li><a href="#">SHOPPING CART</a></li>
+          </ul>
+        </nav>
+    </div>
+</body>
+</html>
